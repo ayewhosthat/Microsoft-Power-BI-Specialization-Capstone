@@ -14,3 +14,6 @@ In addition to the Sales table, we were also provided a table of Countries and a
 Next, the data model was created. This is where relationships were established, ensuring proper cardinality and cross-filter direction between tables. A snapshot of the final data model is provided below.
 <br>
 <br>
+![data model](data_model.png)
+<br>
+<br>
