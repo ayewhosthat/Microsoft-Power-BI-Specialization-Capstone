@@ -26,6 +26,12 @@ In this section, DAX was used to create several key measures that would provide 
 <br>
 <br>
 ![profit overview](profit_overview.png)
+<br>
+<br>
+The two report pages contain insightful visualizations on top of the high-level metrics, such as loyalty points by country, a pie chart showing proportion of median sales by country, and yearly profit margin as a function of time. Both pages also contain interactive elements in the form of sliders that allow for viewers to engage with the presentation and enhance their understanding.
 
-## Part 3: Dashboard/workspace creation + configuring permissions
-In this section,  
+## Part 3: Dashboard/workspace creation + configuring alerts and subscriptions
+In this section, an executive dashboard was created with a mix of visuals from both report pages, to provide executive stakeholders with the low-down on both sales and profit metrics. Alerts were created to immediately notify analysts when a metric were to drop below a certain threshold, e.g. if gross revenue drops below $400 USD. Subscriptions were also set up so that we could receive weekly updates for the Sales and Profit Overview pages, automatically sent to our inbox. This way, we can avoid any manual rechecking of updates, and view them from our mailbox on a weekly basis without any effort.
+
+## Final thoughts
+This was a very instructional project, the high-level steps were laid out for us, but it also promoted self-learning at the same time, since a lot of the directions left things up for the reader to decide and figure. For example, one of the instructions in part 2 was "In the formula bar, create a new measure for quarterly profit using the Profit in USD column. You'll need a function that aggregates data until the end of the current quarter, referencing both the profit values and a calendar table". In this way, it is up to us to determine what function will help us best in completing the task at hand. Overall, I thoroughly enjoyed this project, as I got a glimpse into the working of a data analyst, working through their process from end-to-end. It is my hope that this project, and the course itself was able to prepare me to start a career in data analytics. Learning never stops!
