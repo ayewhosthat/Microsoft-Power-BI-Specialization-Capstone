@@ -22,7 +22,10 @@ Next, the data model was created. This is where relationships were established, 
 In this section, DAX was used to create several key measures that would provide a simple high-level overview of performance to executive stakeholders whose technical knowledge is lower than that of an analyst. Measures are great for this type of project, since they are dynamic, recalculated on the fly, and are thus not stored inside the data model. Additionally, two report pages were created: a Sales overview, and a Profit overview, respectively.
 <br>
 <br>
-
+![sales overview](sales_overview.png)
+<br>
+<br>
+![profit overview](profit_overview.png)
 
 ## Part 3: Dashboard/workspace creation + configuring permissions
 In this section, 
