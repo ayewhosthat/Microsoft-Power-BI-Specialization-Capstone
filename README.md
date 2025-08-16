@@ -28,4 +28,4 @@ In this section, DAX was used to create several key measures that would provide 
 ![profit overview](profit_overview.png)
 
 ## Part 3: Dashboard/workspace creation + configuring permissions
-In this section, 
+In this section,  
